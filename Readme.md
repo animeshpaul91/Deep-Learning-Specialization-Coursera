@@ -1,4 +1,4 @@
-This repository contains all the solutions to the Programming Assignmanets in the Deep Learning Specialization offered by Deeplearning.ai team on Coursera Platform. There were a few datasets that were too large to be put into the git respositories. So, I have uploaded them in my private cloud and shared it publicly. Please follow the instructions to download these files and put it in right directories in order to run the code successfully.
+This repository contains all the solutions to the Programming Assignmanets in the Deep Learning Specialization offered by Deeplearning.ai team on Coursera Platform. There were a few datasets that were too large to be put into the git respositories. So, I have uploaded them in my private cloud and shared it publicly. Please follow the instructions to download these files and put it in right directories in order to run the code successfully. Course 3 (Structuring Machine Learning Projects) does not have any programming assignments, so I have not put up anything about Course-3. 
 
 For Course 4 
 Week-3: 
